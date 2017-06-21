@@ -6,3 +6,4 @@ Git can be a funtional tool --Version 4
 Git tracks changes of files --version 5
 
 Create a new branch!!
+Create a new branch quick and simple!!-- version7
