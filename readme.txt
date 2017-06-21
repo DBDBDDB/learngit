@@ -4,7 +4,6 @@ Git is a free software!--version 2
 Git is a free software under GPL--version3
 Git can be a funtional tool --Version 4
 Git tracks changes of files --version 5
-
 Create a new branch!!
 Create a new branch quick AND simple!!-- version7
 New strategy!
